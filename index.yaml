@@ -1,0 +1,737 @@
+apiVersion: v1
+entries:
+  emon-api-billpayment:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.527814533Z"
+    description: Finnet EMON API Billpayment
+    digest: 324e5bb1d1c624d01f04ee438b3f902ca3555ecdb3b8af3a3d787503f34d7fdd
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-billpayment
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-billpayment-0.1.0.tgz
+    version: 0.1.0
+  emon-api-check-acc-wallet:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.528462731Z"
+    description: Finnet EMON API Check Account Wallet
+    digest: c31f6bd63be08cf0706470f8afbbb984a1742a11a01f5ae8f19e2f4288f044b0
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-check-acc-wallet
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-check-acc-wallet-0.1.0.tgz
+    version: 0.1.0
+  emon-api-get-balance:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.529120153Z"
+    description: Finnet EMON API Get Balance
+    digest: 800e2231a81812187781ef0c7b5fdc49cf3f436bd9ffd133893c249e451d4504
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-get-balance
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-get-balance-0.1.0.tgz
+    version: 0.1.0
+  emon-api-get-history:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.529729898Z"
+    description: Finnet EMON API Get History
+    digest: 1ae222b47712fc2751ea45874033b1eb0bb01bff7267ce6358e68e8079f74e10
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-get-history
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-get-history-0.1.0.tgz
+    version: 0.1.0
+  emon-api-get-history-all:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.53028396Z"
+    description: Finnet EMON API Get History (All)
+    digest: 13d25627b23a522b23c507cfdf0ee606ed44f7c64a7ebca86bb701af4db9fd94
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-get-history-all
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-get-history-all-0.1.0.tgz
+    version: 0.1.0
+  emon-api-get-history-master:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.530859004Z"
+    description: Finnet EMON API Get History Master
+    digest: f160287a62bb33177b0daa963a7d88cf49a72e1c3f0ca4c798451e7159476a88
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-get-history-master
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-get-history-master-0.1.0.tgz
+    version: 0.1.0
+  emon-api-get-master-account:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.531345956Z"
+    description: Finnet EMON API Get Master Account
+    digest: ea3445834fe9afa2fb02c553399462ee4c9180af30c2014824a6297704009de6
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-get-master-account
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-get-master-account-0.1.0.tgz
+    version: 0.1.0
+  emon-api-get-profile:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.531825708Z"
+    description: Finnet EMON API Get Profile
+    digest: 9a7fb69666b3b8c9dec2003018c34ef2439f474c05e420def3fa7212a2efc878
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-get-profile
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-get-profile-0.1.0.tgz
+    version: 0.1.0
+  emon-api-get-token:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.532293697Z"
+    description: Finnet EMON API Get Token
+    digest: 94695ff1903615a746cb53c4ba27f531ccabd64436581c8d87b359f98c895eb6
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-get-token
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-get-token-0.1.0.tgz
+    version: 0.1.0
+  emon-api-login:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.532821127Z"
+    description: Finnet EMON API Login
+    digest: adec8e7d6e5cd1f169b78e25aa177ce2b6d1efd035a0572382b66fd9fe179f1d
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-login
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-login-0.1.0.tgz
+    version: 0.1.0
+  emon-api-mutasi-balance:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.53333628Z"
+    description: Finnet EMON API Mutasi Balance
+    digest: e34b36a555aa3b4229edb507904a5f856b5076753beb32f96174cef8cdfe34a9
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-mutasi-balance
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-mutasi-balance-0.1.0.tgz
+    version: 0.1.0
+  emon-api-pairing-no-otp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.533854456Z"
+    description: Finnet EMON API Pairing No OTP
+    digest: 4503cea55a7517343228ca3c589838dff24385b45bcf912d4ffa8b4fa687288e
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-pairing-no-otp
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-pairing-no-otp-0.1.0.tgz
+    version: 0.1.0
+  emon-api-qris-generate:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.534410141Z"
+    description: Finnet EMON API QRIS Generate
+    digest: 14f1d40f5f69e3b7d97bb51abf65b8caa3355d9438b2cec818f4d83b62fe4ee2
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-qris-generate
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-qris-generate-0.1.0.tgz
+    version: 0.1.0
+  emon-api-qris-inquiry:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.534900007Z"
+    description: Finnet EMON API QRIS Inquiry
+    digest: faa9b0b28b5b9b565e341855dd0295e5d98089d033bbb80b8fdf88781fb4521e
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-qris-inquiry
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-qris-inquiry-0.1.0.tgz
+    version: 0.1.0
+  emon-api-qris-payment:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.535445295Z"
+    description: Finnet EMON API QRIS Payment
+    digest: 7050b4e76e95fcd17d3bdf895dd1480a164f881c769c9e1b5d91d3980d2a3b24
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-qris-payment
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-qris-payment-0.1.0.tgz
+    version: 0.1.0
+  emon-api-qris-status:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.535965227Z"
+    description: Finnet EMON API QRIS Status
+    digest: 9955b07936d5f62d46a86c5cdba6f981201d755796c2b075afabe0735c940726
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-qris-status
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-qris-status-0.1.0.tgz
+    version: 0.1.0
+  emon-api-regis-acc-merchant:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.536477289Z"
+    description: Finnet EMON API Register Account Mertchant
+    digest: 9565b49791316413465bd687a452e8561f1ea3e2836ac413d5fda023a5114f23
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-regis-acc-merchant
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-regis-acc-merchant-0.1.0.tgz
+    version: 0.1.0
+  emon-api-req-cashout:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.537085351Z"
+    description: Finnet EMON API Req Cashout
+    digest: e9c5778b473c1b90d0097eb2fc26207afad676eaa1cb13e6d1316003a24e3abc
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-req-cashout
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-req-cashout-0.1.0.tgz
+    version: 0.1.0
+  emon-api-reqactivation:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.537629076Z"
+    description: Finnet EMON API ReqActivation
+    digest: e8a7160ffd472ae9ddedbb894cd3162213eb6b4338e0fd6a1becf94f0c7957b2
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-reqactivation
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-reqactivation-0.1.0.tgz
+    version: 0.1.0
+  emon-api-reqconfirmation:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.538158074Z"
+    description: Finnet EMON API Req Confirmation
+    digest: 239c07d91b0f8e8937682a15eb0980df7fae863e0cac4976ae2b85a38406a30f
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-reqconfirmation
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-reqconfirmation-0.1.0.tgz
+    version: 0.1.0
+  emon-api-reversal:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.538586356Z"
+    description: Finnet EMON API Reversal
+    digest: bac097a2d7485509631fff2888232093e6153086e1ef71764fa0d745e4779f5e
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-reversal
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-reversal-0.1.0.tgz
+    version: 0.1.0
+  emon-api-reversal-apollo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.539175067Z"
+    description: Finnet EMON API Reversal Apollo
+    digest: f27156aac7635dc8a8f05ad22fc1820e473b8c0b6f20579254f23b889f476e04
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-reversal-apollo
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-reversal-apollo-0.1.0.tgz
+    version: 0.1.0
+  emon-api-seller-settle:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.539594409Z"
+    description: Finnet EMON API Seller Settle
+    digest: 5474d3deae230e725fc832522aa67def70cdacae7326acdd47f88f3d90a41619
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-seller-settle
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-seller-settle-0.1.0.tgz
+    version: 0.1.0
+  emon-api-transaction:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.540018027Z"
+    description: Finnet EMON API Transaction
+    digest: cb91d0b81749a6ca986f6dc7f678aa202a767cf64db717aad8ba6d6332a67817
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-transaction
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-transaction-0.1.0.tgz
+    version: 0.1.0
+  emon-api-transfer-p2p:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.540439354Z"
+    description: Finnet EMON API Transfer P2P
+    digest: f3c5693c0f0326f4ca5b448adac8c7189f1c00b1a82d063d4f1f61b7031f7e44
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-transfer-p2p
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-transfer-p2p-0.1.0.tgz
+    version: 0.1.0
+  emon-api-trf-bank:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.542205223Z"
+    description: Finnet EMON API Transfer Bank
+    digest: 25272011247b17f51a882a314706f10533b78bcebc406802925a54692e4bcd97
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-trf-bank
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-trf-bank-0.1.0.tgz
+    version: 0.1.0
+  emon-api-unpair:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.542557143Z"
+    description: Finnet EMON API Unpair
+    digest: a8f679517eb71629f15cb7a2200f23caf293ed302e22096b1642ebdda7a8ef52
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-unpair
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-unpair-0.1.0.tgz
+    version: 0.1.0
+  emon-api-upgrade-account:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.542885068Z"
+    description: Finnet EMON API Upgrade Account
+    digest: fca0b06756bb0b908511a8ad3c4d6c45970108aae38c5766783a17e4dbc70ac7
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-upgrade-account
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-upgrade-account-0.1.0.tgz
+    version: 0.1.0
+  emon-api-wallet-list-sof:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.54322835Z"
+    description: Finnet EMON API Wallet List SOF
+    digest: e322ef13299d5a33a2d2a62d0fad632b6258b84e5fa4fbbb83460233aa4e6e4f
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-wallet-list-sof
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-wallet-list-sof-0.1.0.tgz
+    version: 0.1.0
+  emon-api-wallet-profile:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.543552747Z"
+    description: Finnet EMON API Wallet Profile
+    digest: 3863562731b8557886d05d815eab6cef63477a279c57d02509457f7b979658d5
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-wallet-profile
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-wallet-profile-0.1.0.tgz
+    version: 0.1.0
+  emon-api-wallet-register:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.543851395Z"
+    description: Finnet EMON API Wallet Register
+    digest: 4614863076f59b27f383cb0ac884a4f79f09fe7cd96d61a250d113de3abb8e48
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-api-wallet-register
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-api-wallet-register-0.1.0.tgz
+    version: 0.1.0
+  emon-widget-add-sof:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.5442509Z"
+    description: Finnet EMON Widget Add SOF
+    digest: e2c14a6d2a4b97994a6348ca6ca085602cc5ddc8dd78992b17b4cb2e09e294d5
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-widget-add-sof
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-widget-add-sof-0.1.0.tgz
+    version: 0.1.0
+  emon-widget-billpayment:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.545060866Z"
+    description: Finnet EMON Widget Billpayment
+    digest: 2be150012e1272aa220186dabd978173ae2b6e9f0e445b4367362879a706c40f
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-widget-billpayment
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-widget-billpayment-0.1.0.tgz
+    version: 0.1.0
+  emon-widget-change-pin:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.545580888Z"
+    description: Finnet EMON Widget Change Pin
+    digest: 408deca28228d77c9ef457c3fbed58a88c7beec2bbc5b9e4ec8deec3a66faa69
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-widget-change-pin
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-widget-change-pin-0.1.0.tgz
+    version: 0.1.0
+  emon-widget-profile:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.546028366Z"
+    description: Finnet EMON Widget Profile
+    digest: 9c9bd97434d40156a323c4fa8e7552e32167eb9fb90e345386793f093c5e15f9
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-widget-profile
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-widget-profile-0.1.0.tgz
+    version: 0.1.0
+  emon-widget-register:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.546550381Z"
+    description: Finnet EMON Widget Register
+    digest: 907a667e4cda518dbe01bdda321cae3863eccbc3dd95a1a88153022f69b76a40
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-widget-register
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-widget-register-0.1.0.tgz
+    version: 0.1.0
+  emon-widget-topup:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.547069744Z"
+    description: Finnet EMON Widget Topup
+    digest: 1ff891683cee6743f7a34638c0b40a2ff87472e17a1e28c9c6181173152a3a9e
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-widget-topup
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-widget-topup-0.1.0.tgz
+    version: 0.1.0
+  emon-widget-transaction:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.547478138Z"
+    description: Finnet EMON Widget Transaction
+    digest: b4e9f4c937b4661bcffc0fdcc75e4889d34569e5217d853ad7cfa138f5f1057b
+    icon: https://finbox.id/images/icon/finbox.png
+    name: emon-widget-transaction
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/emon-widget-transaction-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-biller:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.548039416Z"
+    description: Finnet Finbox API Biller
+    digest: 6250f64c0e0fc5efe0b96d7e36a367f8fd75cb461b3c3b420be3f318e66d34b7
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-biller
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-biller-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-cancel-invoice:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.548451745Z"
+    description: Finnet Finbox API Cancel Invoice
+    digest: fb235b5efe245882796feba6dcff5cfef79613bf0f78f6ca0b1681b3de246629
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-cancel-invoice
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-cancel-invoice-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-client:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.549004883Z"
+    description: Finnet Finbox API Client
+    digest: 4c5c1dbf26aa136f2d4a3b5514c18f0704f3912e7753416cb14439c1437be117
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-client
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-client-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-create-invoice:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.549556796Z"
+    description: Finnet Finbox API Create Invoice
+    digest: 16a6359e2ca0abf3da8fc12e3c0122cee86854c7bcc1d39ae7f8d8b352af5c30
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-create-invoice
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-create-invoice-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-dashboard:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.550012196Z"
+    description: Finnet Finbox API Dashboard
+    digest: 3003202478ed8816abf0409bb2625e8f0331092e71775f5a4f95094a6109bb63
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-dashboard
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-dashboard-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-email:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.550531074Z"
+    description: Finnet Finbox API Email
+    digest: cb882bb02cbc70c28202ff949c28372dd377abcf2c2abcd23bd04ae4eb336b1d
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-email
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-email-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-get-payment-invoice:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.551097539Z"
+    description: Finnet Finbox API Get Payment Invoice
+    digest: cbeee27c6bf8aa2b69a0dbaecb745186c13540fc2a033cc1b7f18d5dbbd9da88
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-get-payment-invoice
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-get-payment-invoice-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-get-token:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.551530132Z"
+    description: Finnet Finbox API Get Token
+    digest: cd13e7caa3dd5ce93b1680fc26e1b20ec2720d1c6ee4dcee5dafc829b97e146c
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-get-token
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-get-token-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-inquiry-invoice:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.552065713Z"
+    description: Finnet Finbox API Inquiry Invoice
+    digest: 7265a95fb1ca968f648acf550c2db7f0243fbaf3f409398085efdc09dda0beb8
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-inquiry-invoice
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-inquiry-invoice-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-invoice:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.552508522Z"
+    description: Finnet Finbox API Invoice
+    digest: f665a5141c3f5f58ad795fbaf737f12698771ebde489e124406bc526b7c87e3e
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-invoice
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-invoice-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-invoice-bulk:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.553073346Z"
+    description: Finnet Finbox API Invoice Bulk
+    digest: 7617780bf5e645175735e6bd2bd6bdb2624e3134d08b8f41c69e6c69337f01be
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-invoice-bulk
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-invoice-bulk-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-ipg:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.55349065Z"
+    description: Finnet Finbox API IPG
+    digest: 2efd94f24de738d5a1f06511433170e262a9e0a3013dacdda84d568ef98d3196
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-ipg
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-ipg-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-redirect-payment:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.553902243Z"
+    description: Finnet Finbox API Redirect Payment
+    digest: 4df3a089b1f729237f54710a6e880e8e5d43e66f558d6d34029b320cdc02614d
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-redirect-payment
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-redirect-payment-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-report:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.5543371Z"
+    description: Finnet Finbox API Report
+    digest: 1b3e9e23e25b39656468d7fda34de2a1903d9e23aa20ea7106532d35b7825c78
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-report
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-report-0.1.0.tgz
+    version: 0.1.0
+  finbox-api-return-new-url:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.554832076Z"
+    description: Finnet Finbox API Return New Url
+    digest: 73da1ad54d5320e56b23d2199d8734dc7ecffb1b92a02554ef2d4cc886f3a677
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-api-return-new-url
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-api-return-new-url-0.1.0.tgz
+    version: 0.1.0
+  finbox-web:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.555278014Z"
+    description: Finnet Finbox Web
+    digest: d0f92740f9abded21a7d7f29922525f914deb181499a57e556cbfc97896a4cab
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-web
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-web-0.1.0.tgz
+    version: 0.1.0
+  finbox-webapps:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.55583378Z"
+    description: Finnet Finbox Webapps
+    digest: c1d36c8d52a26de23ee06631bb67b44b5390004934b533d0bd04433ee07fa555
+    icon: https://finbox.id/images/icon/finbox.png
+    name: finbox-webapps
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finbox-webapps-0.1.0.tgz
+    version: 0.1.0
+  finnet-laravel:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-12-15T12:09:39.556280148Z"
+    description: A Helm chart for Kubernetes
+    digest: c52c993a0385549e80a5231ee63ba42a42044e349aaa079a94f81939a6d34f7e
+    name: finnet-laravel
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finnet-laravel-0.1.0.tgz
+    version: 0.1.0
+  finnet-reactjs:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-12-15T12:09:39.556831565Z"
+    description: A Helm chart for Kubernetes
+    digest: 534bb5987a1a2416f930b3ca9b02d9c2fe6be6f9a25ddbc2173f7399b1cd590f
+    name: finnet-reactjs
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/finnet-reactjs-0.1.0.tgz
+    version: 0.1.0
+  jalin-iso-to-json:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.55738346Z"
+    description: Finnet JALIN API ISO (XML) to JSON Converter
+    digest: 1c30ea84ef6712b862e06d4dd6bdf391ec39bfe344ba91eff9c9f9015b33ea22
+    icon: https://finbox.id/images/icon/finbox.png
+    name: jalin-iso-to-json
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/jalin-iso-to-json-0.1.0.tgz
+    version: 0.1.0
+  jalin-json-to-iso:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.557816655Z"
+    description: Finnet JALIN API JSON to ISO (XML) Converter
+    digest: 1ce5889d60f921091e1363280c05ca48b87173e594795a7c8d2fd3fbda18b630
+    icon: https://finbox.id/images/icon/finbox.png
+    name: jalin-json-to-iso
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/jalin-json-to-iso-0.1.0.tgz
+    version: 0.1.0
+  qris-auth:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.558383993Z"
+    description: Finnet QRIS API AUTH
+    digest: 59aea20147a9fa33a74db0a2dd0c8134cb37778ce69913960925b80d7d380224
+    icon: https://finbox.id/images/icon/finbox.png
+    name: qris-auth
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/qris-auth-0.1.0.tgz
+    version: 0.1.0
+  qris-merchant:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.558857787Z"
+    description: Finnet QRIS API MERCHANT
+    digest: af469929ce9be16eb35d7a163f39e98ef90962a8c6eb0d668f076fe54225d428
+    icon: https://finbox.id/images/icon/finbox.png
+    name: qris-merchant
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/qris-merchant-0.1.0.tgz
+    version: 0.1.0
+  qris-pten-scheduler:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.559361975Z"
+    description: Finnet QRIS PTEN Scheduler
+    digest: bae87928d3aa8c99ddc10e14cea16244416b230f7f1ed15d92b3be79b6038b9b
+    icon: https://finbox.id/images/icon/finbox.png
+    name: qris-pten-scheduler
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/qris-pten-scheduler-0.1.0.tgz
+    version: 0.1.0
+  qris-report:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.559984242Z"
+    description: Finnet QRIS API REPORT
+    digest: 2b21925c7c1f2291c53e49180239e531ef8e8f4d0938469e5516a3afcddb1b06
+    icon: https://finbox.id/images/icon/finbox.png
+    name: qris-report
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/qris-report-0.1.0.tgz
+    version: 0.1.0
+  qris-setting:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.56044584Z"
+    description: Finnet QRIS API SETTING
+    digest: 46c82f76da84e30f9105ab772e531bde682929eb50b234098dccca64d5ab43fa
+    icon: https://finbox.id/images/icon/finbox.png
+    name: qris-setting
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/qris-setting-0.1.0.tgz
+    version: 0.1.0
+  qris-string-extractor:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.562715881Z"
+    description: Finnet QRIS String Extractor
+    digest: 81896e946c1007c8d7b0009a3821cb38fafe4ac684cadb59752c583f05472c7e
+    icon: https://finbox.id/images/icon/finbox.png
+    name: qris-string-extractor
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/qris-string-extractor-0.1.0.tgz
+    version: 0.1.0
+  qris-ui:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-15T12:09:39.563104486Z"
+    description: Finnet QRIS WEB UI
+    digest: b808ef1b6e89df8defde2f6313f292db4c757e358a842ee9cc0b62a782034b3a
+    icon: https://finbox.id/images/icon/finbox.png
+    name: qris-ui
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/qris-ui-0.1.0.tgz
+    version: 0.1.0
+  secret-gen:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-12-15T12:09:39.563362013Z"
+    description: A Helm chart for Generate Kubernetes Secret
+    digest: 5a8c96dd7cd4cd844cd3f4c4c66b829ba9afd88b32900e62165d4302aeb3f184
+    name: secret-gen
+    urls:
+    - https://gii-finnet.gitlab.io/helm/finnet-microservice-helm-charts/secret-gen-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-15T12:09:39.527285867Z"
